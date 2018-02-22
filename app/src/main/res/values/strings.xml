@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Altimeter</string>
+    <string name="pairedDevices">Paired devices:</string>
+    <string name="referenceAltitude">Set reference altitude</string>
+</resources>
